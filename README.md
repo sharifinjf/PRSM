@@ -7,3 +7,6 @@ The poor images have serious occlusion, motion blur, or are depreciated.
 You can download the official version of the PRSM dataset by clicking on the following link.
 
 http://display.sbu.ac.ir/submission_prsm-dataset/
+
+![Example Image](prsm-768x405.png)
+
