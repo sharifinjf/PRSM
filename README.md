@@ -29,4 +29,7 @@ http://display.sbu.ac.ir/submission_prsm-dataset/
 
 ![Classes of captured road surface marking](Images/PRSM.png)
 
-# Annotation tools
+**To use annotation tools:**
+1. Place your images in the annotation tool's designated folder.
+2. Run the application responsible for image tagging (e.g., tag_fig)
+   
