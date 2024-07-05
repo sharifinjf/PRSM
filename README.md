@@ -32,4 +32,12 @@ http://display.sbu.ac.ir/submission_prsm-dataset/
 **To use annotation tools:**
 1. Place your images in the annotation tool's designated folder.
 2. Run the application responsible for image tagging (e.g., tag_fig)
-   
+
+# classification
+**Accuracy Comparison of Different Classifiers and Feature Extraction **
+
+| Classifier | Accuracy | KNN | Length of Feature Vector |
+|---|---|---|---|
+| SVM | 0.87 | 0.97 | 6400 |
+| HOG | 0.85 | 0.98 | 9216 |
+| POEM | 0.89 | 0.93 | 8496 |
