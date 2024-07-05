@@ -28,7 +28,7 @@ http://display.sbu.ac.ir/submission_prsm-dataset/
 | Total Number of Samples | 47653 | 20420 | 68073 | 100 % |
 
 ![Classes of captured road surface marking](Images/PRSM.png)
-# nnotation tool
+# Annotation tool
 **To use annotation tools:**
 1. Place your images in the annotation tool's designated folder.
 2. Run the application responsible for image tagging (e.g., tag_fig)
