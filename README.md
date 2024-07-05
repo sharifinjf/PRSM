@@ -41,3 +41,7 @@ Accuracy Comparison of Different Classifiers and Feature Extraction
 | SVM | 0.87 | 0.97 | 6400 |
 | HOG | 0.85 | 0.98 | 9216 |
 | POEM | 0.89 | 0.93 | 8496 |
+# Contact 
+Any questions or discussions are welcome! Please raise an issue (preferred), or send me an email.
+
+Neehar Peri [sharifinjf@gmail.com]
