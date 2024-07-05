@@ -34,7 +34,7 @@ http://display.sbu.ac.ir/submission_prsm-dataset/
 2. Run the application responsible for image tagging (e.g., tag_fig)
 
 # classification
-**Accuracy Comparison of Different Classifiers and Feature Extraction **
+Accuracy Comparison of Different Classifiers and Feature Extraction
 
 | Classifier | Accuracy | KNN | Length of Feature Vector |
 |---|---|---|---|
