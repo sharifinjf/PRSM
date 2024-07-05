@@ -44,4 +44,4 @@ Accuracy Comparison of Different Classifiers and Feature Extraction
 # Contact 
 Any questions or discussions are welcome! Please raise an issue (preferred), or send me an email.
 
-Neehar Peri [sharifinjf@gmail.com]
+Ali Asghar Sharifi [sharifinjf@gmail.com]
